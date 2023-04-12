@@ -6,7 +6,7 @@
 
 # ever-node
 
-Everscale/Venom node and validator
+Everscale/TBCC node and validator
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Everscale/Venom node and validator
 
 ## About
 
-Implementation of Everscal/Venom node and validator in safe Rust. 
+Implementation of Everscal/TBCC node and validator in safe Rust. 
 
 ## Getting Started
 
@@ -51,4 +51,4 @@ See the [LICENSE](LICENSE) file for details.
 
 ## Tags
 
-`blockchain` `everscale` `rust` `venom-blockchain` `venom-developer-program` `venom-node` `venom-validator` 
+`blockchain` `everscale` `rust` `TBCC-blockchain` `TBCC-developer-program` `TBCC-node` `TBCC-validator` 
